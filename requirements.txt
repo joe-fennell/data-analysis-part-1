@@ -1,4 +1,3 @@
 matplotlib
-math
 numpy
 os
