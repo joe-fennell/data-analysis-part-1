@@ -1,0 +1,4 @@
+matplotlib
+math
+numpy
+os
